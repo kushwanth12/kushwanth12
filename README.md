@@ -1,5 +1,4 @@
-<h1 align="center"> <img src="https://komarev.com/ghpvc/?username=kushwanth12&label=No of times stalked&color=007bff&style=plastic" alt="kushwanth12" /></h1>
-<h1 align="center">Hi 👋, I'm Kushwanth Neela <a href="https://twitter.com/kushwanthneela" target="blank"><img src="https://img.shields.io/twitter/follow/kushwanthneela?logo=twitter&style=for-the-badge" alt="kushwanthneela" /></a></h1>
+<h1 align="center">Hi 👋, I'm Kushwanth Neela <br><a href="https://twitter.com/kushwanthneela" target="blank"><img src="https://img.shields.io/twitter/follow/kushwanthneela?logo=twitter&style=for-the-badge" alt="kushwanthneela" /></a></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **kushwanthneela000@gmail.com**
