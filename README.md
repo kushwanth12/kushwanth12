@@ -6,8 +6,8 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <p align="left">
-<a href="https://twitter.com/kushwanthneela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kushwanthneela" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neelakushwanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neelakushwanth" height="30" width="40" /></a>
-<a href="https://fb.com/kushwanth neela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushwanth neela" height="30" width="40" /></a>
-<a href="https://instagram.com/kushwanthneela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushwanthneela" height="30" width="40" /></a>
+<a href="https://twitter.com/kushwanthneela" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="kushwanthneela" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/neelakushwanth" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="neelakushwanth" height="40" width="40" /></a>
+<a href="https://fb.com/kushwanth neela" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" alt="kushwanth neela" height="40" width="40" /></a>
+<a href="https://instagram.com/kushwanthneela" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-social-media-logo-for-your-works-png-format-19.png" alt="kushwanthneela" height="30" width="30" /></a>
 </p>
