@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **kushwanthneela000@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <p align="left">
 <a href="https://twitter.com/kushwanthneela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kushwanthneela" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/neelakushwanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neelakushwanth" height="30" width="40" /></a>
